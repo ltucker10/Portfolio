@@ -14,10 +14,10 @@ Welcome to my professional portfolio! This site showcases my technical projects 
 I'm a Computer Science student eager to learn!
 ## Goals
 
-- Secure internships in AI, cloud, or bioinformatics
-- Complete AWS, CISSP, and TensorFlow certifications
-- Pursue a master's degree in Switzerland (ETH Zurich or USI)
-- Build a career with flexibility, impact, and early financial freedom
+- Secure internships in IT, AI, cloud, or bioinformatics
+- Complete certifications such as AWS, CISSP, and TensorFlow
+- Pursue a master's degree in CS, IT, or AI
+- Build a successfull and well-rounded career
 
 ## Contact
 
