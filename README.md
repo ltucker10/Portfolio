@@ -7,11 +7,11 @@ Welcome to my professional portfolio! This site showcases my technical projects 
 ## Projects
 
 - **LeetCode Solutions**: Clean, efficient C# implementations of classic algorithm problems.
-- **Excel & PowerPoint**: Data analysis, visualization, and presentation design (coming soon).
+- **Examples: Trip Expense Tracker, Movie Rater, Password Log**
 
 ## About Me
 
-I'm a Computer Science student eager to learn!
+I'm a Computer Science student eager to learn and expand my skillset!
 ## Goals
 
 - Secure internships in IT, AI, cloud, or bioinformatics
